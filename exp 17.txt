@@ -1,0 +1,17 @@
+Dataset created successfully!
+
+First five records:
+   YearsExperience  Salary
+0              1.1   39343
+1              1.3   46205
+2              1.5   37731
+3              2.0   43525
+4              2.2   39891
+
+Missing Values:
+YearsExperience    0
+Salary             0
+dtype: int64
+
+Total Records: 30
+
